@@ -1,0 +1,7 @@
+D:\Algorithms\Lab8\SortingTests\obj\Debug\SortingTests.csprojResolveAssemblyReference.cache
+D:\Algorithms\Lab8\SortingTests\bin\Debug\SortingTests.dll
+D:\Algorithms\Lab8\SortingTests\bin\Debug\SortingTests.pdb
+D:\Algorithms\Lab8\SortingTests\bin\Debug\Lab8.exe
+D:\Algorithms\Lab8\SortingTests\bin\Debug\Lab8.pdb
+D:\Algorithms\Lab8\SortingTests\obj\Debug\SortingTests.dll
+D:\Algorithms\Lab8\SortingTests\obj\Debug\SortingTests.pdb

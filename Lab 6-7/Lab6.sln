@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6", "Lab6\Lab6.csproj", "{D4F8FB8B-10CE-49CB-93FB-DB3CCCF071FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTests", "SortingTests\SortingTests.csproj", "{0B36231E-8875-4EF0-92F0-4D06BC81C283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4F8FB8B-10CE-49CB-93FB-DB3CCCF071FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4F8FB8B-10CE-49CB-93FB-DB3CCCF071FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4F8FB8B-10CE-49CB-93FB-DB3CCCF071FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4F8FB8B-10CE-49CB-93FB-DB3CCCF071FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B36231E-8875-4EF0-92F0-4D06BC81C283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B36231E-8875-4EF0-92F0-4D06BC81C283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B36231E-8875-4EF0-92F0-4D06BC81C283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B36231E-8875-4EF0-92F0-4D06BC81C283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

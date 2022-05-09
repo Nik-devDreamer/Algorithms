@@ -1,0 +1,14 @@
+D:\Algorithms\Lab6\SortingTests\bin\Debug\SortingTests.dll
+D:\Algorithms\Lab6\SortingTests\bin\Debug\SortingTests.pdb
+D:\Algorithms\Lab6\SortingTests\bin\Debug\Lab6.exe
+D:\Algorithms\Lab6\SortingTests\bin\Debug\Lab6.pdb
+D:\Algorithms\Lab6\SortingTests\obj\Debug\SortingTests.csprojResolveAssemblyReference.cache
+D:\Algorithms\Lab6\SortingTests\obj\Debug\SortingTests.dll
+D:\Algorithms\Lab6\SortingTests\obj\Debug\SortingTests.pdb
+D:\Algorithms\Lab 6-7\SortingTests\bin\Debug\SortingTests.dll
+D:\Algorithms\Lab 6-7\SortingTests\bin\Debug\SortingTests.pdb
+D:\Algorithms\Lab 6-7\SortingTests\bin\Debug\Lab6.exe
+D:\Algorithms\Lab 6-7\SortingTests\bin\Debug\Lab6.pdb
+D:\Algorithms\Lab 6-7\SortingTests\obj\Debug\SortingTests.csprojResolveAssemblyReference.cache
+D:\Algorithms\Lab 6-7\SortingTests\obj\Debug\SortingTests.dll
+D:\Algorithms\Lab 6-7\SortingTests\obj\Debug\SortingTests.pdb

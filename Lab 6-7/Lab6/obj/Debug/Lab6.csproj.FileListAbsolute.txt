@@ -1,0 +1,12 @@
+D:\Algorithms\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Algorithms\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Algorithms\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Algorithms\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+D:\Algorithms\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Algorithms\Lab6\Lab6\obj\Debug\Lab6.pdb
+D:\Algorithms\Lab 6-7\Lab6\bin\Debug\Lab6.exe.config
+D:\Algorithms\Lab 6-7\Lab6\obj\Debug\Lab6.exe
+D:\Algorithms\Lab 6-7\Lab6\obj\Debug\Lab6.pdb
+D:\Algorithms\Lab 6-7\Lab6\bin\Debug\Lab6.exe
+D:\Algorithms\Lab 6-7\Lab6\bin\Debug\Lab6.pdb
+D:\Algorithms\Lab 6-7\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
