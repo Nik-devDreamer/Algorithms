@@ -50,13 +50,13 @@ namespace Lab8
         {
             IdleRun();
 
+            Console.WriteLine("---------- Лабораторная №8 ----------");
             foreach(var count in numbersCountList){
                 int[] unsortedMas = UnsortedMas(count);
                 int[] mas = new int[count];
 
                 Console.WriteLine("Количество элементов: {0}", count);
 
-                Console.WriteLine("---------- Лабораторная №8 ----------");
                 Array.Copy(unsortedMas, mas, count);
                 double timeWork = Stopwatch(mas, Sorting.Counting_Sort);
                 Console.WriteLine("Сортировка подсчетом: {0, 2}", timeWork);
