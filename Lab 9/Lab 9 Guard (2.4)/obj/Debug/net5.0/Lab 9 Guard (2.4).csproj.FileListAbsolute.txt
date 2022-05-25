@@ -1,0 +1,16 @@
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).exe
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).deps.json
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).runtimeconfig.json
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).runtimeconfig.dev.json
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).dll
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\ref\Lab 9 Guard (2.4).dll
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\bin\Debug\net5.0\Lab 9 Guard (2.4).pdb
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).csprojAssemblyReference.cache
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).AssemblyInfoInputs.cache
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).AssemblyInfo.cs
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).csproj.CoreCompileInputs.cache
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).dll
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\ref\Lab 9 Guard (2.4).dll
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).pdb
+D:\Algorithms\Lab 9\Lab 9 Guard (2.4)\obj\Debug\net5.0\Lab 9 Guard (2.4).genruntimeconfig.cache

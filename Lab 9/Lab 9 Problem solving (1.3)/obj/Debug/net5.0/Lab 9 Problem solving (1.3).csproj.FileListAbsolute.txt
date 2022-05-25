@@ -1,0 +1,36 @@
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).exe
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).deps.json
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).runtimeconfig.json
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).runtimeconfig.dev.json
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\ref\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Lab 9 Problem solving (1.3).pdb
+D:\Algorithms\Lab 9\Lab 9\bin\Debug\net5.0\Microsoft.Experimental.Collections.dll
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csprojAssemblyReference.cache
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).AssemblyInfoInputs.cache
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).AssemblyInfo.cs
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csproj.CoreCompileInputs.cache
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csproj.CopyComplete
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\ref\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).pdb
+D:\Algorithms\Lab 9\Lab 9\obj\Debug\net5.0\Lab 9 Problem solving (1.3).genruntimeconfig.cache
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).exe
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).deps.json
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).runtimeconfig.json
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).runtimeconfig.dev.json
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\ref\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Lab 9 Problem solving (1.3).pdb
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\bin\Debug\net5.0\Microsoft.Experimental.Collections.dll
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csprojAssemblyReference.cache
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).AssemblyInfoInputs.cache
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).AssemblyInfo.cs
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csproj.CoreCompileInputs.cache
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).csproj.CopyComplete
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\ref\Lab 9 Problem solving (1.3).dll
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).pdb
+D:\Algorithms\Lab 9\Lab 9 Problem solving (1.3)\obj\Debug\net5.0\Lab 9 Problem solving (1.3).genruntimeconfig.cache
