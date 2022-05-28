@@ -1,0 +1,16 @@
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).exe
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).deps.json
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).runtimeconfig.json
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).runtimeconfig.dev.json
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).dll
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\ref\Lab 10 Dream (2.3).dll
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\bin\Debug\net5.0\Lab 10 Dream (2.3).pdb
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).csprojAssemblyReference.cache
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).AssemblyInfoInputs.cache
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).AssemblyInfo.cs
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).csproj.CoreCompileInputs.cache
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).dll
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\ref\Lab 10 Dream (2.3).dll
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).pdb
+D:\Algorithms\Lab 10\Lab 10 Dream (2.3)\obj\Debug\net5.0\Lab 10 Dream (2.3).genruntimeconfig.cache

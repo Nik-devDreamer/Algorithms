@@ -1,0 +1,8 @@
+6 6
+1 5 3 1
+X X X X X X
+X S . X . X
+X . . R . X
+X . X X B X
+X . G . E X
+X X X X X X

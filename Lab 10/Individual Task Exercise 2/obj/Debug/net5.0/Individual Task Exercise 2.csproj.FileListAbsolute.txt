@@ -1,0 +1,16 @@
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.exe
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.deps.json
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.runtimeconfig.json
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.runtimeconfig.dev.json
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.dll
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\ref\Individual Task Exercise 2.dll
+D:\Algorithms\Lab 10\Individual Task Exercise 2\bin\Debug\net5.0\Individual Task Exercise 2.pdb
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.csprojAssemblyReference.cache
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.AssemblyInfoInputs.cache
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.AssemblyInfo.cs
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.csproj.CoreCompileInputs.cache
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.dll
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\ref\Individual Task Exercise 2.dll
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.pdb
+D:\Algorithms\Lab 10\Individual Task Exercise 2\obj\Debug\net5.0\Individual Task Exercise 2.genruntimeconfig.cache
