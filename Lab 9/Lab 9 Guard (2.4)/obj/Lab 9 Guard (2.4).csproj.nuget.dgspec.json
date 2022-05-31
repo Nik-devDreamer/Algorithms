@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj": {}
+    "D:\\Algorithms\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj": {}
   },
   "projects": {
-    "D:\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj": {
+    "D:\\Algorithms\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj",
+        "projectUniqueName": "D:\\Algorithms\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj",
         "projectName": "Lab 9 Guard (2.4)",
-        "projectPath": "D:\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj",
+        "projectPath": "D:\\Algorithms\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\Lab 9 Guard (2.4).csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "D:\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\obj\\",
+        "outputPath": "D:\\Algorithms\\Algorithms\\Lab 9\\Lab 9 Guard (2.4)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Algorithms\\Packages": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
@@ -55,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.214\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

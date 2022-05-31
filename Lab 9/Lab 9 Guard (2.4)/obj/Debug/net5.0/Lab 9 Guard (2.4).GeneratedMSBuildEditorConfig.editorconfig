@@ -6,3 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Lab_9_Guard__2._4_
+build_property.ProjectDir = D:\Algorithms\Algorithms\Lab 9\Lab 9 Guard (2.4)\
